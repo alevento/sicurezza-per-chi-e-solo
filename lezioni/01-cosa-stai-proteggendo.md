@@ -67,11 +67,11 @@ La terza risposta, in ore, è il numero più utile che avrai in mano per tutto i
 
 ## Con l'AI, per questa lezione
 
-Fai l'elenco dei sistemi come viene, anche disordinato, e falle fare la prima classificazione. Poi correggila: ti serve per ragionare, non per decidere.
+**Uso 1 di 12 · L'assistente come interlocutore.** È il modo più semplice, e per la prima lezione basta: ragionare ad alta voce con qualcuno che fa domande. Fai l'elenco dei sistemi come viene, anche disordinato, e falle fare la prima classificazione. Poi correggila tu.
 
 > Faccio l'informatico da solo in un'azienda di [N] persone. Questi sono i sistemi che usiamo: [elenco]. Per ognuno dimmi se conta di più la riservatezza, l'integrità o la disponibilità, spiegami perché in una riga, e fammi le domande che ti servono se non ti basta quello che ho scritto.
 
-Non serve incollare indirizzi, nomi di utenti o password: con «gestionale», «posta», «file server» ragiona lo stesso.
+Una regola che vale per tutte le lezioni: all'assistente non si danno password, chiavi, indirizzi pubblici dell'azienda né dati dei clienti. Con «gestionale», «posta», «file server» ragiona lo stesso. Nelle prossime lezioni vediamo undici modi diversi di usarla, dal più semplice al più delicato.
 
 ## Lunedì mattina, se sei l'unico informatico
 
