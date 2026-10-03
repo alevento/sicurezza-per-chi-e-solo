@@ -6,6 +6,10 @@ sicurezza, nessun budget dedicato, e la responsabilità di tutto.
 Ogni lezione si legge in dieci minuti (c'è anche il PDF da stampare) e finisce con tre cose da
 fare il lunedì mattina con quello che c'è già in azienda.
 
+Qui dentro non c'è tecnica spinta. C'è un metodo: sapere cosa hai, decidere cosa conta, controllarlo
+con regolarità. Nella sicurezza di una piccola azienda il metodo vale più della competenza tecnica,
+e si impara.
+
 Esce una lezione a settimana, il martedì. È tutto gratis.
 
 ## Indice
