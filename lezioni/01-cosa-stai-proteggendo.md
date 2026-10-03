@@ -65,6 +65,14 @@ Per ogni sistema del tuo elenco fatti tre domande e scrivi le risposte accanto:
 
 La terza risposta, in ore, è il numero più utile che avrai in mano per tutto il resto delle lezioni: decide il tipo di backup, se serve un ricambio, e quanto puoi aspettare prima di chiamare qualcuno.
 
+## Con l'AI, per questa lezione
+
+Fai l'elenco dei sistemi come viene, anche disordinato, e falle fare la prima classificazione. Poi correggila: ti serve per ragionare, non per decidere.
+
+> Faccio l'informatico da solo in un'azienda di [N] persone. Questi sono i sistemi che usiamo: [elenco]. Per ognuno dimmi se conta di più la riservatezza, l'integrità o la disponibilità, spiegami perché in una riga, e fammi le domande che ti servono se non ti basta quello che ho scritto.
+
+Non serve incollare indirizzi, nomi di utenti o password: con «gestionale», «posta», «file server» ragiona lo stesso.
+
 ## Lunedì mattina, se sei l'unico informatico
 
 1. Scrivi su un foglio i cinque sistemi senza i quali l'azienda si ferma. Di solito sono gestionale, posta, file server, produzione e centralino.
