@@ -34,6 +34,36 @@ Quattro parole che spesso si confondono:
 
 **Zero-day:** una vulnerabilità **sfruttata prima** che sia nota al produttore o che
 esista una correzione (patch). È pericolosa perché non c'è ancora difesa ufficiale.
+## Un esempio: un'azienda da quaranta persone
+
+Prendiamo un'azienda tipica di quelle che seguo: quaranta persone, un gestionale, la posta su Microsoft 365, un file server, due linee di produzione con i loro PLC, un centralino.
+
+| Sistema | Cosa conta di più | Perché |
+|---|---|---|
+| Gestionale | Disponibilità, poi integrità | Se è fermo non si fattura e non si spedisce. Se qualcuno cambia un prezzo o un IBAN senza che si veda, è peggio. |
+| Posta | Riservatezza | Dentro ci sono offerte, contratti, e la fiducia dei fornitori. È anche da lì che partono le truffe del bonifico. |
+| File server | Integrità e disponibilità | Un ransomware lo cifra: viola tutte e due. |
+| PLC di produzione | Disponibilità | Nessuno vuole leggerli. Tutti vogliono che vadano. |
+| Buste paga | Riservatezza | Basta che le legga la persona sbagliata. |
+
+Fatto questo schema, le decisioni vengono da sole. Il primo backup va sul file server e sul gestionale. Il secondo fattore va sulla posta. I PLC vanno messi in una rete dove nessuno li raggiunge per sbaglio (ne parliamo nella lezione 9).
+
+## Gli errori che vedo più spesso
+
+- **Trattare tutto come segreto.** Se tutto è riservato, niente lo è davvero, e si finisce per proteggere male le tre cose che contano.
+- **Pensare che il backup risolva tutto.** Il backup serve alla disponibilità e, in parte, all'integrità. Contro un furto di dati non fa niente.
+- **Confondere vulnerabilità e rischio.** «Lo scanner ha trovato trecento vulnerabilità» non dice quanto rischi. Dipende da dove sono, da chi le può raggiungere e da cosa c'è dietro.
+- **Dimenticare la minaccia.** In una piccola azienda le minacce reali sono poche e sempre le stesse: ransomware, truffa del bonifico, furto delle credenziali di posta, il fornitore con l'accesso remoto. Conviene ragionare su quelle, non su scenari da film.
+
+## Come lo verifichi
+
+Per ogni sistema del tuo elenco fatti tre domande e scrivi le risposte accanto:
+
+1. Chi non deve poterlo leggere? (riservatezza)
+2. Cosa succede se qualcuno lo modifica senza che ce ne accorgiamo? (integrità)
+3. Per quante ore può stare fermo prima che sia un problema serio? (disponibilità)
+
+La terza risposta, in ore, è il numero più utile che avrai in mano per tutto il resto delle lezioni: decide il tipo di backup, se serve un ricambio, e quanto puoi aspettare prima di chiamare qualcuno.
 
 ## Lunedì mattina, se sei l'unico informatico
 
