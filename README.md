@@ -1,7 +1,9 @@
 # Sicurezza informatica per chi è solo
 
-Dodici lezioni corte per chi in una piccola azienda fa l'informatico da solo: nessun reparto
-sicurezza, nessun budget dedicato, e la responsabilità di tutto.
+Dodici lezioni corte per chi in azienda fa l'informatico da solo. Da solo anche se l'azienda ha
+duecento persone, anche se in ufficio IT siete in due: nessun reparto sicurezza, e la giornata che
+se ne va fra la stampante da installare, il telefono che non funziona e la posta che non parte.
+Tutto sembra più urgente della sicurezza, e la sicurezza vuole tempo.
 
 Ogni lezione si legge in dieci minuti (c'è anche il PDF da stampare) e finisce con tre cose da
 fare il lunedì mattina con quello che c'è già in azienda.
@@ -31,9 +33,11 @@ Esce una lezione a settimana, il martedì. È tutto gratis.
 
 ## Per chi è
 
-- per chi fa l'informatico da solo, o in due;
-- per il titolare che vuole capire cosa chiedere al suo fornitore;
-- per i tecnici dei fornitori IT che seguono le piccole aziende.
+- per il responsabile IT di un'azienda produttiva che non ha nessuno a cui delegare la sicurezza, che l'azienda abbia venti persone o duecento;
+- per chi fa l'informatico da solo, o in due, e non ha tempo;
+- per il titolare che vuole capire cosa chiedere al suo responsabile IT o al suo fornitore;
+- per i tecnici dei fornitori IT che seguono queste aziende;
+- per chi comincia: non serve nessuna esperienza di sicurezza.
 
 Non serve esperienza di sicurezza. Serve sapere cos'è un indirizzo IP e poter mettere mano agli
 apparati dell'azienda.
