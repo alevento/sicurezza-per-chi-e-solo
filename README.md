@@ -33,7 +33,7 @@ Esce una lezione a settimana, il martedì. È tutto gratis.
 
 ## Per chi è
 
-- per il responsabile IT di un'azienda produttiva che non ha nessuno a cui delegare la sicurezza, che l'azienda abbia venti persone o duecento;
+- per il responsabile IT di una PMI che non ha nessuno a cui delegare la sicurezza, che l'azienda abbia venti persone o duecento, che produca, venda o faccia servizi;
 - per chi fa l'informatico da solo, o in due, e non ha tempo;
 - per il titolare che vuole capire cosa chiedere al suo responsabile IT o al suo fornitore;
 - per i tecnici dei fornitori IT che seguono queste aziende;
