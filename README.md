@@ -36,8 +36,7 @@ Esce una lezione a settimana, il martedì. È tutto gratis.
 - per il responsabile IT di una PMI che non ha nessuno a cui delegare la sicurezza, che l'azienda abbia venti persone o duecento, che produca, venda o faccia servizi;
 - per chi fa l'informatico da solo, o in due, e non ha tempo;
 - per il titolare che vuole capire cosa chiedere al suo responsabile IT o al suo fornitore;
-- per i tecnici dei fornitori IT che seguono queste aziende;
-- per chi comincia: non serve nessuna esperienza di sicurezza.
+- per i tecnici dei fornitori IT che seguono queste aziende.
 
 Non serve esperienza di sicurezza. Serve sapere cos'è un indirizzo IP e poter mettere mano agli
 apparati dell'azienda.
