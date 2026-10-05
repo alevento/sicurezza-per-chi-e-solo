@@ -1,6 +1,6 @@
 # Lezione 1 — Cosa stai proteggendo, e da cosa
 
-*Sicurezza informatica per chi è solo (o quasi) · Alessandro Manneschi · 6 ottobre 2026*
+*Sicurezza informatica per chi è solo · Alessandro Manneschi · 6 ottobre 2026*
 
 > Prima di parlare di firewall e antivirus conviene mettersi d'accordo su quattro parole. Le uso in tutte le lezioni, e le sento confondere in quasi tutte le aziende.
 
@@ -78,6 +78,25 @@ Una regola che vale per tutte le lezioni: all'assistente non si danno password, 
 1. Scrivi su un foglio i cinque sistemi senza i quali l'azienda si ferma. Di solito sono gestionale, posta, file server, produzione e centralino.
 2. Per ognuno segna cosa conta di più: che nessuno lo legga, che nessuno lo modifichi, o che funzioni. Per il gestionale di solito è che funzioni, per le buste paga che nessuno le legga.
 3. Tieni il foglio: nelle prossime lezioni ti dice dove mettere il primo backup e il primo secondo fattore.
+
+## Glossario
+
+Le sigle usate in questa lezione. Per ognuna due righe: la prima per capirsi, la seconda per capire. Il glossario cresce di lezione in lezione: le sigle nuove sono segnate, le vecchie restano.
+
+- **CIA** *(nuova)* — Le tre cose da proteggere: riservatezza, integrità, disponibilità (in inglese Confidentiality, Integrity, Availability). Niente a che vedere con l'agenzia americana.
+  *Per capirla meglio:* È il modo più usato per ragionare su cosa serve a un sistema. Ogni attacco colpisce almeno una delle tre: un furto di dati la riservatezza, un ransomware l'integrità e la disponibilità, un guasto la disponibilità. Quando valuti un sistema, chiediti quale delle tre pesa di più: la risposta decide che tipo di protezione gli serve.
+- **ransomware** *(nuova)* — Un programma che cifra i file dell'azienda e chiede un riscatto per la chiave. Non è una sigla, ma è la parola che torna più spesso.
+  *Per capirla meglio:* Oggi quasi sempre prima copia i dati fuori e poi li cifra, così può minacciare anche di pubblicarli. Entra con un phishing o da un accesso remoto esposto, poi cerca le password e arriva ai server e ai backup. La difesa sta nelle lezioni 4, 7 e 9: fermare una fase, il secondo fattore, la rete a zone, e un backup che dalla rete non si raggiunge.
+- **DDoS** *(nuova)* — Attacco che manda a un servizio più richieste di quante ne regga, finché smette di rispondere. Sta per Distributed Denial of Service.
+  *Per capirla meglio:* «Distribuito» perché le richieste arrivano da migliaia di computer insieme, spesso infettati senza che i proprietari lo sappiano. Non ruba niente: ferma. Per una PMI il bersaglio tipico è il sito o il portale esposto; la difesa sta quasi sempre dal fornitore che ospita il servizio, non in azienda.
+- **HTTPS** *(nuova)* — La versione cifrata di HTTP, il protocollo delle pagine web. È il lucchetto nel browser.
+  *Per capirla meglio:* Cifra il traffico fra il browser e il sito, così chi è in mezzo (sulla rete, sul WiFi) non legge e non modifica. Protegge il percorso, non il sito: una pagina di phishing può avere il lucchetto, e spesso ce l'ha. Il lucchetto dice «stai parlando in modo cifrato con qualcuno», non «quel qualcuno è onesto».
+- **PLC** *(nuova)* — Il computer industriale che comanda una macchina o una linea di produzione (Programmable Logic Controller).
+  *Per capirla meglio:* È un apparato fatto per funzionare per vent'anni, non per essere aggiornato: spesso non si può mettere né antivirus né patch. Per questo si protegge dalla rete: va in una zona dove nessuno lo raggiunge per sbaglio, e si guarda chi gli parla.
+- **IBAN** *(nuova)* — Il codice del conto corrente, quello che si scrive per fare un bonifico (International Bank Account Number).
+  *Per capirla meglio:* Nella sicurezza compare perché è il bersaglio della truffa del bonifico: cambiare l'IBAN su una fattura vera, o chiedere di cambiarlo in anagrafica, basta per dirottare un pagamento. Ogni cambio di IBAN va verificato per telefono, al numero che si aveva già.
+- **AI** *(nuova)* — Intelligenza artificiale. Qui vuol dire gli assistenti con cui si parla scrivendo, e i modelli che ci stanno dietro.
+  *Per capirla meglio:* Nelle lezioni la usiamo come aiuto per il lavoro di sicurezza, con una regola fissa: non le si danno password, chiavi, indirizzi pubblici dell'azienda né dati dei clienti. E quello che risponde è un'ipotesi da verificare, non una fonte: le versioni colpite da una vulnerabilità si controllano sull'NVD, i comandi per uno switch si provano su una porta sola.
 
 ---
 
