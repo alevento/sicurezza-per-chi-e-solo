@@ -1,6 +1,6 @@
-# Sicurezza informatica per chi è solo
+# Sicurezza informatica per chi è solo (o quasi)
 
-Dodici lezioni corte per chi in azienda fa l'informatico da solo. Da solo anche se l'azienda ha
+Dodici lezioni corte per chi in azienda fa l'informatico da solo, o quasi. Da solo anche se l'azienda ha
 duecento persone, anche se in ufficio IT siete in due: nessun reparto sicurezza, e la giornata che
 se ne va fra la stampante da installare, il telefono che non funziona e la posta che non parte.
 Tutto sembra più urgente della sicurezza, e la sicurezza vuole tempo.

@@ -1,6 +1,6 @@
 # Lezione 1 — Cosa stai proteggendo, e da cosa
 
-*Sicurezza informatica per chi è solo · Alessandro Manneschi · 6 ottobre 2026*
+*Sicurezza informatica per chi è solo (o quasi) · Alessandro Manneschi · 6 ottobre 2026*
 
 > Prima di parlare di firewall e antivirus conviene mettersi d'accordo su quattro parole. Le uso in tutte le lezioni, e le sento confondere in quasi tutte le aziende.
 
