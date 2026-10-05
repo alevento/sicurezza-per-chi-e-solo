@@ -32,6 +32,7 @@ Esce una lezione a settimana, il martedì. È tutto gratis.
 | 10 | Gli attacchi che partono da dentro la rete locale | in uscita il 9 dicembre 2026 |
 | 11 | Restare in piedi e vedere il traffico | in uscita il 15 dicembre 2026 |
 | 12 | Firewall e log: chi decide cosa passa, e chi guarda | in uscita il 22 dicembre 2026 |
+| extra | Cosa fa un SIEM, e quando serve a una PMI | in uscita il 12 gennaio 2027 |
 
 ## Per chi è
 
