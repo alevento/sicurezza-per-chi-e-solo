@@ -34,9 +34,9 @@ Quattro parole che spesso si confondono:
 
 **Zero-day:** una vulnerabilità **sfruttata prima** che sia nota al produttore o che
 esista una correzione (patch). È pericolosa perché non c'è ancora difesa ufficiale.
-## Un esempio: un'azienda da quaranta persone
+## Un esempio: un'azienda da cento persone
 
-Prendiamo un'azienda tipica di quelle che seguo: quaranta persone, un gestionale, la posta su Microsoft 365, un file server, due linee di produzione con i loro PLC, un centralino.
+Prendiamo un'azienda tipica di quelle che seguo: cento persone, un gestionale, la posta su Microsoft 365, un file server, due linee di produzione con i loro PLC, un centralino.
 
 | Sistema | Cosa conta di più | Perché |
 |---|---|---|
