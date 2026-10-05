@@ -53,7 +53,7 @@ Fatto questo schema, le decisioni vengono da sole. Il primo backup va sul file s
 - **Trattare tutto come segreto.** Se tutto è riservato, niente lo è davvero, e si finisce per proteggere male le tre cose che contano.
 - **Pensare che il backup risolva tutto.** Il backup serve alla disponibilità e, in parte, all'integrità. Contro un furto di dati non fa niente.
 - **Confondere vulnerabilità e rischio.** «Lo scanner ha trovato trecento vulnerabilità» non dice quanto rischi. Dipende da dove sono, da chi le può raggiungere e da cosa c'è dietro.
-- **Dimenticare la minaccia.** In una piccola azienda le minacce reali sono poche e sempre le stesse: ransomware, truffa del bonifico, furto delle credenziali di posta, il fornitore con l'accesso remoto. Conviene ragionare su quelle, non su scenari da film.
+- **Dimenticare la minaccia.** Le minacce reali sono poche e sempre le stesse: ransomware, truffa del bonifico, furto delle credenziali di posta, il fornitore con l'accesso remoto. Conviene ragionare su quelle, non su scenari da film.
 
 ## Come lo verifichi
 
@@ -88,7 +88,7 @@ Le sigle usate in questa lezione. Per ognuna due righe: la prima per capirsi, la
 - **ransomware** *(nuova)* — Un programma che cifra i file dell'azienda e chiede un riscatto per la chiave. Non è una sigla, ma è la parola che torna più spesso.
   *Per capirla meglio:* Oggi quasi sempre prima copia i dati fuori e poi li cifra, così può minacciare anche di pubblicarli. Entra con un phishing o da un accesso remoto esposto, poi cerca le password e arriva ai server e ai backup. La difesa sta nelle lezioni 4, 7 e 9: fermare una fase, il secondo fattore, la rete a zone, e un backup che dalla rete non si raggiunge.
 - **DDoS** *(nuova)* — Attacco che manda a un servizio più richieste di quante ne regga, finché smette di rispondere. Sta per Distributed Denial of Service.
-  *Per capirla meglio:* «Distribuito» perché le richieste arrivano da migliaia di computer insieme, spesso infettati senza che i proprietari lo sappiano. Non ruba niente: ferma. Per una PMI il bersaglio tipico è il sito o il portale esposto; la difesa sta quasi sempre dal fornitore che ospita il servizio, non in azienda.
+  *Per capirla meglio:* «Distribuito» perché le richieste arrivano da migliaia di computer insieme, spesso infettati senza che i proprietari lo sappiano. Non ruba niente: ferma. Il bersaglio tipico è il sito o il portale esposto; la difesa sta quasi sempre dal fornitore che ospita il servizio, non in azienda.
 - **HTTPS** *(nuova)* — La versione cifrata di HTTP, il protocollo delle pagine web. È il lucchetto nel browser.
   *Per capirla meglio:* Cifra il traffico fra il browser e il sito, così chi è in mezzo (sulla rete, sul WiFi) non legge e non modifica. Protegge il percorso, non il sito: una pagina di phishing può avere il lucchetto, e spesso ce l'ha. Il lucchetto dice «stai parlando in modo cifrato con qualcuno», non «quel qualcuno è onesto».
 - **PLC** *(nuova)* — Il computer industriale che comanda una macchina o una linea di produzione (Programmable Logic Controller).
