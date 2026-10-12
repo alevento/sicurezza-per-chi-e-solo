@@ -100,4 +100,4 @@ Le sigle usate in questa lezione. Per ognuna due righe: la prima per capirsi, la
 
 ---
 
-[Indice](../README.md) · Lezione 2: *Leggere un bollettino di sicurezza senza perdersi* (in uscita il 13 ottobre 2026)
+[Indice](../README.md) · [Lezione 2: Leggere un bollettino di sicurezza senza perdersi](02-leggere-un-bollettino.md) →
