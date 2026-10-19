@@ -250,4 +250,4 @@ Dalle lezioni precedenti (la spiegazione completa è nella lezione in cui sono c
 
 ---
 
-← [Lezione 1](01-cosa-stai-proteggendo.md) · [Indice](../README.md) · Lezione 3: *Quale aggiornamento fare per primo* (in uscita il 20 ottobre 2026)
+← [Lezione 1](01-cosa-stai-proteggendo.md) · [Indice](../README.md) · [Lezione 3: Quale aggiornamento fare per primo](03-quale-patch-prima.md) →

@@ -21,7 +21,7 @@ Esce una lezione a settimana, il martedì. È tutto gratis.
 |---|---|---|
 | 1 | [Cosa stai proteggendo, e da cosa](lezioni/01-cosa-stai-proteggendo.md) · [PDF](pdf/01-cosa-stai-proteggendo.pdf) | pubblicata |
 | 2 | [Leggere un bollettino di sicurezza senza perdersi](lezioni/02-leggere-un-bollettino.md) · [PDF](pdf/02-leggere-un-bollettino.pdf) | pubblicata |
-| 3 | Quale aggiornamento fare per primo | in uscita il 20 ottobre 2026 |
+| 3 | [Quale aggiornamento fare per primo](lezioni/03-quale-patch-prima.md) · [PDF](pdf/03-quale-patch-prima.pdf) | pubblicata |
 | 4 | Come si svolge davvero un attacco | in uscita il 27 ottobre 2026 |
 | 5 | Phishing, e tutti i canali da cui arriva | in uscita il 3 novembre 2026 |
 | 6 | La truffa del bonifico e le altre storie ben raccontate | in uscita il 10 novembre 2026 |
