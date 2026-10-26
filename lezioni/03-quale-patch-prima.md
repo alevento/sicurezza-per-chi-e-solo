@@ -126,4 +126,4 @@ Dalle lezioni precedenti (la spiegazione completa è nella lezione in cui sono c
 
 ---
 
-← [Lezione 2](02-leggere-un-bollettino.md) · [Indice](../README.md) · Lezione 4: *Come si svolge davvero un attacco* (in uscita il 27 ottobre 2026)
+← [Lezione 2](02-leggere-un-bollettino.md) · [Indice](../README.md) · [Lezione 4: Come si svolge davvero un attacco](04-come-si-svolge-un-attacco.md) →
