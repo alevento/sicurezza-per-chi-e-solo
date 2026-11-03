@@ -161,4 +161,4 @@ Dalle lezioni precedenti (la spiegazione completa è nella lezione in cui sono c
 
 ---
 
-← [Lezione 3](03-quale-patch-prima.md) · [Indice](../README.md) · Lezione 5: *Phishing, e tutti i canali da cui arriva* (in uscita il 3 novembre 2026)
+← [Lezione 3](03-quale-patch-prima.md) · [Indice](../README.md) · [Lezione 5: Phishing, e tutti i canali da cui arriva](05-phishing-e-varianti.md) →
