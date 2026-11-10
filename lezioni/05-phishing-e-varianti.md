@@ -187,4 +187,4 @@ Dalle lezioni precedenti (la spiegazione completa è nella lezione in cui sono c
 
 ---
 
-← [Lezione 4](04-come-si-svolge-un-attacco.md) · [Indice](../README.md) · Lezione 6: *La truffa del bonifico e le altre storie ben raccontate* (in uscita il 10 novembre 2026)
+← [Lezione 4](04-come-si-svolge-un-attacco.md) · [Indice](../README.md) · [Speciale 1: Le macchine che nessuno considera informatica: l'OT in azienda](s1-ot-le-macchine-in-rete.md) →

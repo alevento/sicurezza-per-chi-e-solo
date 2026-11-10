@@ -24,14 +24,16 @@ Esce una lezione a settimana, il martedì. È tutto gratis.
 | 3 | [Quale aggiornamento fare per primo](lezioni/03-quale-patch-prima.md) · [PDF](pdf/03-quale-patch-prima.pdf) | pubblicata |
 | 4 | [Come si svolge davvero un attacco](lezioni/04-come-si-svolge-un-attacco.md) · [PDF](pdf/04-come-si-svolge-un-attacco.pdf) | pubblicata |
 | 5 | [Phishing, e tutti i canali da cui arriva](lezioni/05-phishing-e-varianti.md) · [PDF](pdf/05-phishing-e-varianti.pdf) | pubblicata |
-| 6 | La truffa del bonifico e le altre storie ben raccontate | in uscita il 10 novembre 2026 |
-| 7 | Difendere le persone: le misure che funzionano | in uscita il 17 novembre 2026 |
-| 8 | Indirizzi, sottoreti e VLAN: la mappa della rete | in uscita il 24 novembre 2026 |
-| 9 | Perché dividere la rete in zone | in uscita il 1 dicembre 2026 |
-| 10 | Gli attacchi che partono da dentro la rete locale | in uscita il 9 dicembre 2026 |
-| 11 | Restare in piedi e vedere il traffico | in uscita il 15 dicembre 2026 |
-| 12 | Firewall e log: chi decide cosa passa, e chi guarda | in uscita il 22 dicembre 2026 |
-| extra | Cosa fa un SIEM, e quando serve | in uscita il 12 gennaio 2027 |
+| speciale 1 | [Le macchine che nessuno considera informatica: l'OT in azienda](lezioni/s1-ot-le-macchine-in-rete.md) · [PDF](pdf/s1-ot-le-macchine-in-rete.pdf) | pubblicata |
+| 6 | La truffa del bonifico e le altre storie ben raccontate | in uscita il 17 novembre 2026 |
+| speciale 2 | Una falla critica sul sito aziendale: cosa fai la settimana in cui esce | in uscita il 24 novembre 2026 |
+| 7 | Difendere le persone: le misure che funzionano | in uscita il 1 dicembre 2026 |
+| 8 | Indirizzi, sottoreti e VLAN: la mappa della rete | in uscita il 9 dicembre 2026 |
+| 9 | Perché dividere la rete in zone | in uscita il 15 dicembre 2026 |
+| 10 | Gli attacchi che partono da dentro la rete locale | in uscita il 22 dicembre 2026 |
+| 11 | Restare in piedi e vedere il traffico | in uscita il 12 gennaio 2027 |
+| 12 | Firewall e log: chi decide cosa passa, e chi guarda | in uscita il 19 gennaio 2027 |
+| extra | Cosa fa un SIEM, e quando serve | in uscita il 26 gennaio 2027 |
 
 ## Per chi è
 
