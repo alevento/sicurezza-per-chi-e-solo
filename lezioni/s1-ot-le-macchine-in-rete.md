@@ -278,4 +278,4 @@ Dalle lezioni precedenti (la spiegazione completa è nella lezione in cui sono c
 
 ---
 
-← [Lezione 5](05-phishing-e-varianti.md) · [Indice](../README.md) · Lezione 6: *La truffa del bonifico e le altre storie ben raccontate* (in uscita il 17 novembre 2026)
+← [Lezione 5](05-phishing-e-varianti.md) · [Indice](../README.md) · [Lezione 6: La truffa del bonifico e le altre storie ben raccontate](06-la-truffa-del-bonifico.md) →

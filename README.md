@@ -25,7 +25,7 @@ Esce una lezione a settimana, il martedì. È tutto gratis.
 | 4 | [Come si svolge davvero un attacco](lezioni/04-come-si-svolge-un-attacco.md) · [PDF](pdf/04-come-si-svolge-un-attacco.pdf) | pubblicata |
 | 5 | [Phishing, e tutti i canali da cui arriva](lezioni/05-phishing-e-varianti.md) · [PDF](pdf/05-phishing-e-varianti.pdf) | pubblicata |
 | speciale 1 | [Le macchine che nessuno considera informatica: l'OT in azienda](lezioni/s1-ot-le-macchine-in-rete.md) · [PDF](pdf/s1-ot-le-macchine-in-rete.pdf) | pubblicata |
-| 6 | La truffa del bonifico e le altre storie ben raccontate | in uscita il 17 novembre 2026 |
+| 6 | [La truffa del bonifico e le altre storie ben raccontate](lezioni/06-la-truffa-del-bonifico.md) · [PDF](pdf/06-la-truffa-del-bonifico.pdf) | pubblicata |
 | speciale 2 | Una falla critica sul sito aziendale: cosa fai la settimana in cui esce | in uscita il 24 novembre 2026 |
 | 7 | Difendere le persone: le misure che funzionano | in uscita il 1 dicembre 2026 |
 | 8 | Indirizzi, sottoreti e VLAN: la mappa della rete | in uscita il 9 dicembre 2026 |
