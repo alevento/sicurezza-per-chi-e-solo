@@ -26,7 +26,7 @@ Esce una lezione a settimana, il martedì. È tutto gratis.
 | 5 | [Phishing, e tutti i canali da cui arriva](lezioni/05-phishing-e-varianti.md) · [PDF](pdf/05-phishing-e-varianti.pdf) | pubblicata |
 | speciale 1 | [Le macchine che nessuno considera informatica: l'OT in azienda](lezioni/s1-ot-le-macchine-in-rete.md) · [PDF](pdf/s1-ot-le-macchine-in-rete.pdf) | pubblicata |
 | 6 | [La truffa del bonifico e le altre storie ben raccontate](lezioni/06-la-truffa-del-bonifico.md) · [PDF](pdf/06-la-truffa-del-bonifico.pdf) | pubblicata |
-| speciale 2 | Una falla critica sul sito aziendale: cosa fai la settimana in cui esce | in uscita il 24 novembre 2026 |
+| speciale 2 | [Una falla critica sul sito aziendale: cosa fai la settimana in cui esce](lezioni/s2-una-falla-sul-sito.md) · [PDF](pdf/s2-una-falla-sul-sito.pdf) | pubblicata |
 | 7 | Difendere le persone: le misure che funzionano | in uscita il 1 dicembre 2026 |
 | 8 | Indirizzi, sottoreti e VLAN: la mappa della rete | in uscita il 9 dicembre 2026 |
 | 9 | Perché dividere la rete in zone | in uscita il 15 dicembre 2026 |

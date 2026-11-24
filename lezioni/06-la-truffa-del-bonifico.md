@@ -189,4 +189,4 @@ Dalle lezioni precedenti (la spiegazione completa è nella lezione in cui sono c
 
 ---
 
-← [Speciale 1](s1-ot-le-macchine-in-rete.md) · [Indice](../README.md) · Speciale 2: *Una falla critica sul sito aziendale: cosa fai la settimana in cui esce* (in uscita il 24 novembre 2026)
+← [Speciale 1](s1-ot-le-macchine-in-rete.md) · [Indice](../README.md) · [Speciale 2: Una falla critica sul sito aziendale: cosa fai la settimana in cui esce](s2-una-falla-sul-sito.md) →
